@@ -13,7 +13,7 @@ _ _ _ _ _
 >> Após a migração, otimizar a infraestrutura para Kubernetes e implementar melhores práticas em Cloud AWS.
 
 ## Diagrama da Arquitetura Atual (On-Premises):
-![Imagem diagrama atual da infraestrutura da empresa](img/img-dg-atual.png)
+![Imagem diagrama atual da infraestrutura da empresa](images/img-dg-atual.png)
 
 - **database**: Servidor MySQL (500GB, 10GB RAM, 3 vCPUs)  
 - **frontend**: Frontend em React (5GB, 2GB RAM, 1 vCPU)  
@@ -61,7 +61,7 @@ Para realizar a migração Lift-and-Shift, seguiremos estas etapas:
 
 ## Diagrama da migração (On-Premises):
 
-![Imagem diagrama de migração da infraestrutura da empresa](img/img-dg-onpremise.jpeg)
+![Imagem diagrama de migração da infraestrutura da empresa](images/img-dg-onpremise.jpeg)
 
 ---
 
@@ -119,6 +119,6 @@ ___
 
 Diagrama da infraestrutura modernizada na AWS com mais detalhes:
 
-![Imagem diagrama modernizado da infraestrutura da empresa](img/img-dg-modernizado.png)
+![Imagem diagrama modernizado da infraestrutura da empresa](images/img-dg-modernizado.png)
 
 Com essa arquitetura, poderemos ter um sistema robusto e escalável com menor risco de falhas além de uma maior manutenibilidade.
