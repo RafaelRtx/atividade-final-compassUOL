@@ -122,3 +122,8 @@ Diagrama da infraestrutura modernizada na AWS com mais detalhes:
 ![Imagem diagrama modernizado da infraestrutura da empresa](images/img-dg-modernizado.png)
 
 Com essa arquitetura, poderemos ter um sistema robusto e escalável com menor risco de falhas além de uma maior manutenibilidade.
+
+___
+
+# Custos da Migração + Modernização
+Custo Total Mensal do Ambiente Modernizado: $852.94
